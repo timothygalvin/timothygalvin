@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothygalvin
 - 👀 I’m interested in integration and data
-- 🌱 I’m currently learning Databricks and how to speak russian (yeah, i know...)
+- 🌱 I’m currently learning to walk again
 - 💞️ I’m looking to collaborate on Async-api
 - 📫 How to reach me - linkedin
 
